@@ -1,13 +1,13 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "My Personal Blog"
+author: "Santhosh"
+description: "Hello All, I'm a highly skilled Penetration Tester with 4 years of experience conducting comprehensive security assessments and vulnerability evaluations for diverse organizations. Expert in simulating real-world attacks to identify weaknesses in systems, networks, and applications before malicious actors can exploit them. Proficient in performing penetration tests, vulnerability scans, and security audits, while delivering actionable insights and remediation strategies to enhance overall security posture. Adept at understanding both technical and business perspectives, ensuring that security risks are clearly communicated to stakeholders. Passionate about ethical hacking and always up-to-date with the latest exploits, tools, and methodologies in the ever-evolving landscape of cybersecurity.." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+#twitter_username: "santhoshguansudhari25@gmail.com"
+github_username: "santhoshgunasudhari"
+linkedin_username: "linkedin.com/in/santhosh-gunasudhari-32251a205"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
